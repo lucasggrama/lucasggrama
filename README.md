@@ -1,6 +1,6 @@
 <h1 align="center">Oi👋, eu sou Lucas</h1>
 <h3 align="center">Um estudante de informatica no cefet e um amante de software livre</h3>
-<img aling="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yPGIm57ncie_7nnufRH2mLv78EfOTcCIKELvW8KFsw&s">
+<img aling="left" src="https://github.com/lucasggrama/lucasggrama/edit/main/README.md">
 - 🔭 Estou atualmente trabalhando em [Banda Simulator](https://lucasggrama.github.io/Band-Simulator/)
 
 - 🌱 I’m currently learning **C/C++ Js**
