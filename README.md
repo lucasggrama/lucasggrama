@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, eu sou o Lucas</h1>
-<img aling="center" src="http://2.bp.blogspot.com/-I4MbRGMQ1Rs/TZ4mZYljewI/AAAAAAAAAI4/Iiuz1j6KbJU/s320/Bem+vindo+a+meu+profile.jpg">
+<img aling="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS21SrhYL08GZILeiMt-mqZEBb8cNODynKbBGnm1lbOdg&s">
 <h3 align="center">Um estudante de informatica no cefet e um amante de software livre</h3>
 
 - 🔭 Estou atualmente trabalhando em [Banda Simulator](https://lucasggrama.github.io/Band-Simulator/)
