@@ -1,6 +1,8 @@
 <h1 align="center">Oi👋, eu sou o Lucas</h1>
 <h3 align="center">Um estudante de informatica no cefet e um amante de software livre</h3>
-- <img aling="center" src="http://2.bp.blogspot.com/-I4MbRGMQ1Rs/TZ4mZYljewI/AAAAAAAAAI4/Iiuz1j6KbJU/s320/Bem+vindo+a+meu+profile.jpg">
+
+- 🔭 Estou atualmente trabalhando em [Banda Simulator](https://lucasggrama.github.io/Band-Simulator/)
+
 - 🌱 I’m currently learning **C/C++** e **Js**
 
 - 🔭 Estou atualmente trabalhando em [Banda Simulator](https://lucasggrama.github.io/Band-Simulator/)
@@ -11,6 +13,7 @@
 
 - 📫 Contato em **lucasggrama@protonmail.com**
 - 🖥️ Uso Arco Linux com o <a href="https://larbs.xyz">larbs</a>
+<img aling="center" src="http://2.bp.blogspot.com/-I4MbRGMQ1Rs/TZ4mZYljewI/AAAAAAAAAI4/Iiuz1j6KbJU/s320/Bem+vindo+a+meu+profile.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
