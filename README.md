@@ -1,10 +1,6 @@
 <h1 align="center">Oi👋, eu sou Lucas</h1>
 <h3 align="center">Um estudante de informatica no cefet e um amante de software livre</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasggrama&label=Profile%20views&color=0e75b6&style=flat" alt="lucasggrama" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasggrama" alt="lucasggrama" /></a> </p>
-
 - 🔭 Estou atualmente trabalhando em [Banda Simulator](https://lucasggrama.github.io/Band-Simulator/)
 
 - 🌱 I’m currently learning **C/C++ Js**
