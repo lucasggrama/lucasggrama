@@ -8,7 +8,7 @@
 
 - 🔭 Estou atualmente trabalhando em [Banda Simulator](https://lucasggrama.github.io/Band-Simulator/)
 
-- 👨‍💻 Todos os meus projetos estão em: [github.com/lucasggrama](github.com/lucasggrama)
+- 👨‍💻 Todos os meus projetos estão no meu [github](github.com/lucasggrama)
 
 - 📝 Meu site é [lucasggrama.github.io](lucasggrama.github.io)
 
