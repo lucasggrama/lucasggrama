@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão no meu [github](github.com/lucasggrama)
 
-- 📝 Meu site é [lucasggrama.github.io](lucasggrama.github.io)
+- 📝 Meu site é [lucasggrama.github.io](https://www.lucasggrama.github.io)
 
 - 📫 Contato em **lucasggrama@protonmail.com**
 - 🖥️ Uso Arco Linux com o <a href="https://larbs.xyz">larbs</a>
