@@ -3,7 +3,7 @@
 <h3 align="center">Um estudante de informatica no CEFET-MG e um amante de software livre</h3>
 
 # 💫 Sobre Mim:
-<br><br>    + Estou atualmente trabalhando em Banda Simulator<br><br>    + Aprendendo C/C++ e Js<br><br>    + Todos os meus projetos estão no meu github<br><br>    + Meu site é [lucasggrama.github.io](https://lucasggrama.github.io)<br><br>    + Contato em lucasggrama@protonmail.com<br><br><br>
+<br><br>   + Aprendendo C/C++ e Js<br><br>    + Todos os meus projetos estão no meu github<br><br>    + Meu site é [lucasggrama.github.io](https://lucasggrama.github.io)<br><br>    + Contato em lucasggrama@protonmail.com<br><br><br>
 
 
 ## 🌐 Redes Sociais:
@@ -25,4 +25,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasggrama&icon=9&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
