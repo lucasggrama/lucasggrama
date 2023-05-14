@@ -3,4 +3,4 @@
 <h3 align="center">Um estudante de informatica no CEFET-MG e um amante de software livre</h3>
 
 # Tocado recentemente
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=lucasggrama)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=lucasggrama&count=1)
