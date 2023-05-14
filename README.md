@@ -3,5 +3,4 @@
 <h3 align="center">Um estudante de informatica no CEFET-MG e um amante de software livre</h3>
 
 # Tocado recentemente
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5bunqkgkvrnuw4tgm2o73pqfm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5bunqkgkvrnuw4tgm2o73pqfm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)]
