@@ -1,11 +1,8 @@
 <h1 align="center">Oi 👋, sou o Lucas</h1>
-<h3 align="center">Sou um estudante de informática no CEFET-MG e um amante de software livre, música e fotografia</h3>
+<h3 align="center">Sou um estudante de informática no CEFET-MG e um usuario linux 🐧</h3>
 
 - 🌱 Atualmente aprendendo **C++, Java**
 
-- 📝 Escrevo (quando da vontade) em [lucasggrama.github.com](lucasggrama.github.com)
-
-- 📫 Email **lucasggrama@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
