@@ -1,7 +1,6 @@
-<h1 align="center">Oi 👋, sou o Lucas</h1>
-<h3 align="center">Estudante de informática no CEFET-MG, cruzeirense e usuario linux 🐧</h3>
+<h1 align="center">Olá 👋</h1>
+<h3 align="center">Estudante de informática no CEFET-MG, cruzeirense 🦊 e usuario linux 🐧</h3>
 
-- 🌱 Atualmente aprendendo **C++, Java**
 
 
 <h3 align="left">Connect with me:</h3>
